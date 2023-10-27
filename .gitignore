@@ -1,0 +1,4 @@
+/pygame_venv
+.idea/
+.DS_Store/
+*.pyc
